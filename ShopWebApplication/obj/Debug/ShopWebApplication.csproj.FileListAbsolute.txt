@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\ShopWebApplication\ShopWebApplication\obj\Debug\ShopWebApplication.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ShopWebApplication\ShopWebApplication\obj\Debug\ShopWebApplication.Dashboard.resources
+C:\Users\Admin\source\repos\ShopWebApplication\ShopWebApplication\obj\Debug\ShopWebApplication.Form1.resources
+C:\Users\Admin\source\repos\ShopWebApplication\ShopWebApplication\obj\Debug\ShopWebApplication.Properties.Resources.resources
+C:\Users\Admin\source\repos\ShopWebApplication\ShopWebApplication\obj\Debug\ShopWebApplication.Register.resources
+C:\Users\Admin\source\repos\ShopWebApplication\ShopWebApplication\obj\Debug\ShopWebApplication.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ShopWebApplication\ShopWebApplication\obj\Debug\ShopWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ShopWebApplication\ShopWebApplication\obj\Debug\ShopWebApplication.Admindashboard.resources
+C:\Users\Admin\source\repos\ShopWebApplication\ShopWebApplication\obj\Debug\ShopWebApplication.Login.resources
